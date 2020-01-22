@@ -2,7 +2,7 @@ example.property: "I AM THE DEFAULT"
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3307/eagle_eye_local
+    url: jdbc:mysql://scy.pub:3306/eagle_eye_local
     username: root
     password: 123456
 
